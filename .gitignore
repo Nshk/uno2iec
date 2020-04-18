@@ -9,6 +9,7 @@ rpi2iec
 *.htm
 *.D64
 *.d64
+*~
 ui_*.h
 object_script.*
 release/
